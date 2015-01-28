@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 asdf -petko
+=======
+asdf -gosho
+ne gosho,a tosho!!!
+>>>>>>> origin/master
